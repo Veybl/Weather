@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 6px;
+    background-color: #82c7d5;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Стилі для заголовка */
+h1 {
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+}
+
+/* Стилі для даних API */
+p {
+    font-size: 18px;
+    color: #555;
+    margin: 10px 0;
+}
